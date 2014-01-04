@@ -12,6 +12,8 @@ next Pomodoro.
 3. Run install.sh (this will check for dependencies and set the paths)
 4. Run tomaten-tijd.sh using the commandline or double-click the tomaten-tijd.desktop launcher
 
+Optional: add Tomaten-Tijd to your Unity Panel by dragging the tomaten-tijd.desktop (extension may be hidden) file onto it. 
+
 ## Dependencies ##
 
 notify-send 
