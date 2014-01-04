@@ -1,0 +1,3 @@
+[ ] Have some form of indicator for the user so she knows it's running
+[ ] Make sure only one instance is running
+[X] Add an installer to set paths in *.desktop file

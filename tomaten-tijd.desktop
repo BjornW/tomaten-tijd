@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0         
+Type=Application
+Terminal=false      
+StartupNotify=true
+Icon=#PWD#/icon/tomato-jose-campos-thenoun-project-cc-by.svg
+Name=tomaten-tijd
+Comment=A simple Pomodoro script which runs for 25 minutes after which you need to start it again              
+Exec=#PWD#/tomaten-tijd.sh
+Categories=Application;
